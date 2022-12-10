@@ -5,4 +5,12 @@ My first repository.
 2. City of god 
 3. Crazy Grandpa
 4. Cherynobyl
-**Thank you** 
+
+<dl>
+  <dt>Example of my Favorite series</dt>
+  <dd>The Good Doctoe</dd>
+  <dt>Other Favorite series </dt>
+  <dd>Wukong. </dd>
+  <dd>Eternal King.</dd>
+</dl>
+**Thank you** :joy:
