@@ -8,7 +8,7 @@ My first repository.
 
 <dl>
   <dt>Example of my Favorite series</dt>
-  <dd>The Good Doctoe</dd>
+  <dd>The Good Doctor</dd>
   <dt>Other Favorite series </dt>
   <dd>Wukong. </dd>
   <dd>Eternal King.</dd>
