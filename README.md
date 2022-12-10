@@ -1,6 +1,6 @@
 # app-dev
 My first repository.
-# H1 My Favorite Movies /H1 :happy:
+# H1 My Favorite Movies  :Happy:
 1. DeadPool 1 and 2 
 2. City of god 
 3. Crazy Grandpa
